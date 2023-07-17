@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**aifrak/aifrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured in articles
+- [Livebook new feature: Presentation View](https://news.livebook.dev/whats-new-in-livebook-0.10---introducing-multi-session-livebook-apps-3Dbpss)
 
-Here are some ideas to get you started:
+## 🎓 Mentoring
+- [Exercism testimonials](https://exercism.org/profiles/aifrak/testimonials)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aifrak&layout=compact&theme=dark&show_icons=true) 
+
+![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Faifrak%2Faifrak.json%3Fcolor%3Dblue%26show%3Dunique)
