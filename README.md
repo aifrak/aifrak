@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 🌟 Featured in articles
+## 🌟 Mentioned in articles
 - [Livebook new feature: Presentation View](https://news.livebook.dev/whats-new-in-livebook-0.10---introducing-multi-session-livebook-apps-3Dbpss)
 
 ## 🎓 Mentoring
